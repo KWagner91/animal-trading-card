@@ -5,4 +5,4 @@ First HTML/CSS Project of Udacity Cource "Front-End Web Developer":
 
 
 
-### Please open in your Browser of your choice by clicking on card.html
+### Please open in your Browser of your choice by downloading the files and opening card.html
