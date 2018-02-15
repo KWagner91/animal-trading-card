@@ -1,0 +1,67 @@
+body {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+
+#box {
+  background: #003300;
+  border: solid grey 0.5px;
+  box-shadow: 10px 10px 5px grey;
+  padding: 5px;
+  width: 350px;
+/*source box-shadow: https://www.w3schools.com/css/css3_shadows.asp */
+}
+
+
+h3 {
+  background: white;
+  border: dashed grey 0.2px;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+
+#rabbit-pic {
+  border: solid black 1px;
+  border-radius: 60px;
+  bottom: 10px;
+  display: block;
+  height: auto;
+  margin: auto;
+  padding: 1.5px;
+  width: 300px;
+}
+
+.main-text {
+  background: white;
+  border: dashed grey 0.2px;
+  font-size: 1.1em;
+  padding: 0px 20px 10px 20px;
+}
+
+
+li, ul {
+  list-style: none;
+  padding: 0;
+}
+
+
+li span {
+  font-weight: bold;
+}
+
+
+a:link, a:visited {
+  color: #696969;
+  text-decoration: none;
+}
+
+
+a:hover {
+  color: #003300;
+}
+
+
+cite {
+  color: #696969;
+}
